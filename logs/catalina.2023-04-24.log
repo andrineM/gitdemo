@@ -1,0 +1,50 @@
+24-Apr-2023 10:01:01.175 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/10.1.8
+24-Apr-2023 10:01:01.182 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Apr 14 2023 19:40:29 UTC
+24-Apr-2023 10:01:01.183 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 10.1.8.0
+24-Apr-2023 10:01:01.184 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+24-Apr-2023 10:01:01.184 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+24-Apr-2023 10:01:01.188 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+24-Apr-2023 10:01:01.190 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Eclipse Adoptium\jdk-11.0.19.7-hotspot
+24-Apr-2023 10:01:01.191 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           11.0.19+7
+24-Apr-2023 10:01:01.193 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Eclipse Adoptium
+24-Apr-2023 10:01:01.194 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8
+24-Apr-2023 10:01:01.196 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8
+24-Apr-2023 10:01:01.281 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8\conf\logging.properties
+24-Apr-2023 10:01:01.283 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+24-Apr-2023 10:01:01.283 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+24-Apr-2023 10:01:01.283 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+24-Apr-2023 10:01:01.283 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+24-Apr-2023 10:01:01.284 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+24-Apr-2023 10:01:01.284 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+24-Apr-2023 10:01:01.285 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+24-Apr-2023 10:01:01.285 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+24-Apr-2023 10:01:01.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8
+24-Apr-2023 10:01:01.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8
+24-Apr-2023 10:01:01.286 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8\temp
+24-Apr-2023 10:01:01.294 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [2.0.3] using APR version [1.7.2].
+24-Apr-2023 10:01:01.307 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.8 7 Feb 2023]
+24-Apr-2023 10:01:02.132 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+24-Apr-2023 10:01:02.201 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [2041] milliseconds
+24-Apr-2023 10:01:02.388 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+24-Apr-2023 10:01:02.389 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.8]
+24-Apr-2023 10:01:02.427 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8\webapps\docs]
+24-Apr-2023 10:01:04.491 WARNING [main] org.apache.catalina.util.SessionIdGeneratorBase.createSecureRandom Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [1,382] milliseconds.
+24-Apr-2023 10:01:04.556 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8\webapps\docs] has finished in [2,130] ms
+24-Apr-2023 10:01:04.557 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8\webapps\examples]
+24-Apr-2023 10:01:05.638 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8\webapps\examples] has finished in [1,082] ms
+24-Apr-2023 10:01:05.639 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8\webapps\host-manager]
+24-Apr-2023 10:01:05.741 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8\webapps\host-manager] has finished in [101] ms
+24-Apr-2023 10:01:05.742 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8\webapps\manager]
+24-Apr-2023 10:01:05.817 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8\webapps\manager] has finished in [74] ms
+24-Apr-2023 10:01:05.818 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8\webapps\ROOT]
+24-Apr-2023 10:01:05.872 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8\webapps\ROOT] has finished in [53] ms
+24-Apr-2023 10:01:05.881 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+24-Apr-2023 10:01:07.246 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [5042] milliseconds
+24-Apr-2023 10:04:06.476 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8\webapps\webapp.war]
+24-Apr-2023 10:04:06.738 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8\webapps\webapp.war] has finished in [264] ms
+24-Apr-2023 10:07:47.936 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/webapp]
+24-Apr-2023 10:07:58.085 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8\webapps\webapp.war]
+24-Apr-2023 10:07:58.235 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8\webapps\webapp.war] has finished in [150] ms
+24-Apr-2023 10:13:29.678 INFO [Catalina-utility-1] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/webapp]
+24-Apr-2023 10:13:39.735 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8\webapps\webapp.war]
+24-Apr-2023 10:13:39.802 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\andrine.njagi\OneDrive - Palladium International, LLC\Documents\apache-tomcat-10.1.8\webapps\webapp.war] has finished in [68] ms
